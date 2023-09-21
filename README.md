@@ -1,1 +1,2 @@
 # Human-Action-Recognition
+In this project, our main objective is to predict action recognition (or video classification). For this, we will be using the UCF50 - Action Recognition Dataset, consisting of 6676 realistic videos of 50 actions taken from youtube which differentiates this data set from most of the other available action recognition data sets as they are not realistic and are staged by actors. 
